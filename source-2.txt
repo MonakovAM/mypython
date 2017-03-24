@@ -1,0 +1,13 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>$title</title>
+ </head>
+ <body>
+  <h1 align="center">$text1</h1>
+  <p align="center"><img src="images/phys.jpg" alt="pic"></p>
+  <p align="center">$text2</p>
+  <p align="center">$text3</p>
+ </body>
+</html>
